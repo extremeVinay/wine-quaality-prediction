@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91807/Downloads/wine%20quality%20prediction/wine-quaality-prediction/mlruns/0/4e74ecac6e1b4bbabdfc08454b1b73e9/artifacts
+end_time: 1690976468305
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e74ecac6e1b4bbabdfc08454b1b73e9
+run_name: clean-mole-906
+run_uuid: 4e74ecac6e1b4bbabdfc08454b1b73e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690976461376
+status: 3
+tags: []
+user_id: '91807'

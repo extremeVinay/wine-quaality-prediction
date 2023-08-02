@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91807/Downloads/wine%20quality%20prediction/wine-quaality-prediction/mlruns/0/1068bc853d164b8baa4e37ae1cb9ad86/artifacts
+end_time: 1690979914747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1068bc853d164b8baa4e37ae1cb9ad86
+run_name: lyrical-fox-636
+run_uuid: 1068bc853d164b8baa4e37ae1cb9ad86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690979909678
+status: 3
+tags: []
+user_id: '91807'

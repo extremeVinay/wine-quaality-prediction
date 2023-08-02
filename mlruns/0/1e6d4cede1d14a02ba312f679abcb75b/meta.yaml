@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91807/Downloads/wine%20quality%20prediction/wine-quaality-prediction/mlruns/0/1e6d4cede1d14a02ba312f679abcb75b/artifacts
+end_time: 1690976640384
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e6d4cede1d14a02ba312f679abcb75b
+run_name: traveling-fowl-415
+run_uuid: 1e6d4cede1d14a02ba312f679abcb75b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690976635522
+status: 3
+tags: []
+user_id: '91807'

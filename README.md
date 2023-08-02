@@ -13,3 +13,23 @@
 7. Update the pipeline 
 8. Update the main.py
 9. Update the app.py
+
+
+### dagshub
+
+[dagshub](https://dagshub.com/)
+MLFLOW_TRACKING_URI=https://dagshub.com/extremeVinay/wine-quaality-prediction.mlflow \
+MLFLOW_TRACKING_USERNAME=extremeVinay \
+MLFLOW_TRACKING_PASSWORD=70c323595eabf511e58176fe83cac4a98626cf80 \
+python script.py
+
+
+```bash
+
+set MLFLOW_TRACKING_URI=https://dagshub.com/extremeVinay/wine-quaality-prediction.mlflow 
+
+set MLFLOW_TRACKING_USERNAME=extremeVinay
+
+set MLFLOW_TRACKING_PASSWORD=70c323595eabf511e58176fe83cac4a98626cf80
+
+```
